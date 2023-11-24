@@ -16,6 +16,7 @@
 *.cn
 
 ; 其他域名
+*.apple.com
 *.leikeji.com
 .fangzhenxiu.com
 *.speedtest.net
