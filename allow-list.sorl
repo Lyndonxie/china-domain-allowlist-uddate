@@ -16,6 +16,7 @@
 *.cn
 
 ; 其他域名
+*.x-mol.com
 *.xml-journal.net
 *.wqxuetang.com
 *.thefilehosting.com
