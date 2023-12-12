@@ -16,6 +16,8 @@
 *.cn
 
 ; 其他域名
+*.thybc.com
+*.ixueshu.com
 *.sclib.org
 *.anytxt.net
 *.474b.com
