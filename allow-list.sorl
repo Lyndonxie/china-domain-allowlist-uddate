@@ -16,6 +16,9 @@
 *.cn
 
 ; 其他域名
+*.hubpd.com
+*.hndt.com
+*.hntv.tv
 *.thybc.com
 *.ixueshu.com
 *.sclib.org
