@@ -16,6 +16,11 @@
 *.cn
 
 ; 其他域名
+*.bytescm.com
+*.toutiaostatic.com
+*.toutiaoimg.com
+*.bytegoofy.com
+*.ecooling.net
 *.xitongzu.com
 *.laomaotao.net
 *.somode.com
