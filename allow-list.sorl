@@ -16,6 +16,7 @@
 *.cn
 
 ; 其他域名
+*.envicool.com
 *.bytescm.com
 *.toutiaostatic.com
 *.toutiaoimg.com
