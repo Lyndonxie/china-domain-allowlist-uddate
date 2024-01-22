@@ -16,6 +16,9 @@
 *.cn
 
 ; 其他域名
+*.51tvrom.com
+*.taozee.com
+*.szjytx.com
 *.wendoc.com
 *.dangbei.net
 *.znds.com
