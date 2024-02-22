@@ -16,6 +16,8 @@
 *.cn
 
 ; 其他域名
+*.shangyexinzhi.com
+*.sci-hub.*
 *.lan*.com
 *.cqnews.net
 *.lanrar.com
