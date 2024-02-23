@@ -16,6 +16,11 @@
 *.cn
 
 ; 其他域名
+*.31ppt.com
+*.laoyaoba.com
+*.yisu.com
+*.xpwin7.com
+*.360docs.net
 *.shangyexinzhi.com
 *.sci-hub.*
 *.lan*.com
